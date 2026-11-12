@@ -1,5 +1,5 @@
 {
   "description": "Imports Unreal editor packages and maps (.uasset, .umap) in the editor",
   "url": "https://github.com/tomaszbk/mirai-unreal.git",
-  "commit": "98a1728b43ead32f60e59db4e05767bb27d12e27"
+  "commit": "ab1a98250f12121fa33f834df97469498499ebab"
 }
