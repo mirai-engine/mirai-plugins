@@ -1,5 +1,5 @@
 {
   "description": "Blends the surfaces of meshes where they meet, before they are lit",
   "url": "https://github.com/tomaszbk/mirai-meshblend.git",
-  "commit": "c24a283fbf15713a6e1b8bcf83745da2b50104a7"
+  "commit": "54b7061894cd6ab64d3008b0fb65380de60b90ed"
 }
